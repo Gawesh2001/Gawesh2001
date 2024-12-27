@@ -11,4 +11,10 @@ What I Do:
     Backend & Cloud: Integrating Firebase Authentication and Firestore for real-time data and secure user experiences.
     Collaborative Projects: Interested in open-source contributions and always excited to learn from the community.
 
+
+💻My languages are: C# HTML5 CSS3 JavaScript Flutter Java MySQL
+
+🎨 Design Tools: Figma Adobe Photoshop Canva
+
+
 🌱 Always eager to grow and dive into new technologies and projects. Let's connect!
